@@ -1,7 +1,7 @@
 title                    = CHARMM36
 integrator               = steep
 dt                       = 0.01  
-nsteps                   = 1000
+nsteps                   = 2000
 nstcomm                  = 100
 comm-grps		  = 
 nstxout                  = 0
